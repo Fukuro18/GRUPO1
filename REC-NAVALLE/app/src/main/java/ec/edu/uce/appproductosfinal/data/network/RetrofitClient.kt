@@ -30,4 +30,3 @@ object RetrofitClient {
     }
 }
 
-//prueba god si me vale la lapto
