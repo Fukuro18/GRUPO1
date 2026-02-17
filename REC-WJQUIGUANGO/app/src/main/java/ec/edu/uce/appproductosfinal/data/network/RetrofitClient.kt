@@ -32,3 +32,4 @@ object RetrofitClient {
 
 
 //si se puede
+//parce que funcioono
